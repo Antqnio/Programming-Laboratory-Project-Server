@@ -38,6 +38,8 @@ Before running the application, you must configure your database connection sett
 3. Replace root (for both username and password) with your own SQL credentials.
 The database is automatically created by Spring(`spring.datasource.url=jdbc:mysql://${MYSQL_HOST:localhost}:3306/drivers?createDatabaseIfNotExist=true` in `src/main/resources/application.properties`).
 
+---
+
 ## Building and Running
 #### Using NetBeans IDE
 
