@@ -1,0 +1,11 @@
+<linguaggioServer>
+    <alreadyPopulatedDB>Error: the database already exists</alreadyPopulatedDB>
+    <notExistingDB>Errore: the database doesn't exist</notExistingDB>
+    <creationSuccess>The database has been populated successfully</creationSuccess>
+    <genericError>Generic error interacting with the database</genericError>
+    <alreadyExistingUser>Error: arleady existing user</alreadyExistingUser>
+    <userSignedUp>User signed-up successfully</userSignedUp>
+    <userSignedIn>User signed-in successfully</userSignedIn>
+    <wrongCredentials>Wrong credentials. Please, try again</wrongCredentials>
+    <wrongPassword>The password is wrong. Please, try again</wrongPassword>
+</linguaggioServer>

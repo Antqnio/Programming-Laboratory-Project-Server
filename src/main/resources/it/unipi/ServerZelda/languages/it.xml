@@ -1,0 +1,11 @@
+<linguaggioServer>
+    <alreadyPopulatedDB>Errore: database già popolato</alreadyPopulatedDB>
+    <notExistingDB>Errore: database non presente</notExistingDB>
+    <creationSuccess>Database popolato con successo</creationSuccess>
+    <genericError>Errore generico di interazione col database</genericError>
+    <alreadyExistingUser>Errore: utente già registrato</alreadyExistingUser>
+    <userSignedUp>Utente registrato con successo</userSignedUp>
+    <userSignedIn>Accesso effettuato con successo</userSignedIn>
+    <wrongCredentials>Credenziali non valide. Per favore, riprova</wrongCredentials>
+    <wrongPassword>La password è sbagliata. Per favore, riprova</wrongPassword>
+</linguaggioServer>
